@@ -1,1 +1,1 @@
-# my-bears
+# ai-bears
